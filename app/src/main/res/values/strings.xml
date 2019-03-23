@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MirrorApp</string>
+    <string name="log_out">Logout</string>
+    <string name="revoke">Revoke</string>
+</resources>

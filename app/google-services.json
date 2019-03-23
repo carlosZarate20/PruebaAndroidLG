@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973641974388",
+    "firebase_url": "https://lg-mirror-app.firebaseio.com",
+    "project_id": "lg-mirror-app",
+    "storage_bucket": "lg-mirror-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973641974388:android:ee3f9ab66c8564f9",
+        "android_client_info": {
+          "package_name": "com.example.mirrorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973641974388-292vlv1k0catt42asjngd25435lpjnt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirrorapp",
+            "certificate_hash": "f793f99ebc927cdaef200ec6d929477d492cc38a"
+          }
+        },
+        {
+          "client_id": "973641974388-q7mbo2u9kg162selje1a34mpf7u3i5ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOH8rUjQa5Ivuc7_i4SkqPlH_2ZStIWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973641974388-q7mbo2u9kg162selje1a34mpf7u3i5ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
